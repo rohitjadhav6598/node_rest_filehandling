@@ -1,0 +1,16 @@
+{
+  "name": "node_rest_filehandling",
+  "version": "1.0.0",
+  "description": "Rest Api crud operations on file with express js",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Jadhav",
+  "license": "ISC"
+}
